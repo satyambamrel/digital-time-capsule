@@ -1,0 +1,24 @@
+{
+  "name": "satyam-digital-time-capsule",
+  "version": "1.0.0",
+  "description": "A simple Digital Time Capsule package for storing and retrieving messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["time", "capsule", "digital", "memory"],
+  "author": "Satyam",
+  "license": "MIT"
+}
+{
+  "name": "digital-time-capsule-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
