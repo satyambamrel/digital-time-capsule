@@ -6,12 +6,23 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["time capsule", "digital", "messages", "future"],
+  "keywords": [
+    "time capsule",
+    "digital",
+    "messages",
+    "future"
+  ],
   "author": "Satyam",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/satyambamrel/digital-time-capsule.git"
+    "url": "git+https://github.com/satyambamrel/digital-time-capsule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/satyambamrel/digital-time-capsule/issues"
+  },
+  "homepage": "https://github.com/satyambamrel/digital-time-capsule#readme",
+  "dependencies": {
+    "digital-time-capsule-satyam": "^1.0.1"
   }
 }
-
