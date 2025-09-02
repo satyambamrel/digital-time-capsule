@@ -1,24 +1,17 @@
 {
-  "name": "satyam-digital-time-capsule",
-  "version": "1.0.0",
-  "description": "A simple Digital Time Capsule package for storing and retrieving messages",
+  "name": "digital-time-capsule-satyam",
+  "version": "1.0.1",
+  "description": "A simple Digital Time Capsule package",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["time", "capsule", "digital", "memory"],
+  "keywords": ["time capsule", "digital", "messages", "future"],
   "author": "Satyam",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyambamrel/digital-time-capsule.git"
+  }
 }
-{
-  "name": "digital-time-capsule-package",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+
